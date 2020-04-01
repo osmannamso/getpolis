@@ -6,6 +6,6 @@
 Устанавливаем сначала ```docker``` и ```docker-compose```
 
 ```
-    docker-compose build
-    docker-compose start
+docker-compose build
+docker-compose start
 ```
